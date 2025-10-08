@@ -7,6 +7,7 @@ Skilled across the full development lifecycle — from front-end interfaces to b
 
 I have a strong foundation in **Agile collaboration, version control, and software best practices**, developed through intensive project-based training at **Mission Ready HQ**.  
 Passionate about creating clean, scalable solutions that improve user experiences and solve real-world problems.
+
 ---
 ##  About Me
 
