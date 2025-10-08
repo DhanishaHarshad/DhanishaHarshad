@@ -7,9 +7,7 @@ Skilled across the full development lifecycle — from front-end interfaces to b
 
 I have a strong foundation in **Agile collaboration, version control, and software best practices**, developed through intensive project-based training at **Mission Ready HQ**.  
 Passionate about creating clean, scalable solutions that improve user experiences and solve real-world problems.
-
 ---
-
 ##  About Me
 
 -  Currently expanding my knowledge in **AI-powered development** and **cloud deployment**.  
@@ -17,17 +15,23 @@ Passionate about creating clean, scalable solutions that improve user experience
 - Integrating AI tools such as **OpenAI**, **Gemini**, and **Claude** into web applications.  
 - Love working in **collaborative, Agile teams** with a focus on continuous improvement.  
 - Goal: To contribute to innovative, user-focused digital products as a Junior Developer.
-
 ---
 ## GitHub Stats 
 <!--GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 <!--![Dhanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanishaHarshad)](https://github.com/DhanishaHarshad/github-readme-stats)-->
+![](https://github-readme-stats.vercel.app/api?username=DhanishaHarshad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DhanishaHarshad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanishaHarshad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Dhanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanishaHarshad&show_icons=true&theme=radical)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DhanishaHarshad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
 ## Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### **Front-End**
 - HTML5 | CSS3 | JavaScript (ES6+) | React | Responsive Design
