@@ -19,6 +19,13 @@ Passionate about creating clean, scalable solutions that improve user experience
 - Goal: To contribute to innovative, user-focused digital products as a Junior Developer.
 
 ---
+## GitHub Stats 
+<!--GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
+<!--![Dhanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanishaHarshad)](https://github.com/DhanishaHarshad/github-readme-stats)-->
+
+![Dhanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanishaHarshad&show_icons=true&theme=radical)
+
+---
 
 ## Tech Stack
 
